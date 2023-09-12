@@ -11,7 +11,7 @@
 <h4>  Hi world I'm 17 years old and I'm studying programming and the whole IT field in general, I want to work with frontend but still learning new skills from new and old areas in the meantime</h4>
 
 <h1> Devops tools</h1>
-<h5> <img src ="https://icons8.com/icon/W0YEwBDDfTeu/figma" <img src "https://icons8.com/icon/48455/visual-studio"</img> </h5>
+<h5> <img src ="https://icons8.com/icon/W0YEwBDDfTeu/figma" </img> <img src "https://icons8.com/icon/48455/visual-studio"</img> </h5>
  <h6 >   I'm not a wizard yet, but I'm just learning  </h6>
 
  
